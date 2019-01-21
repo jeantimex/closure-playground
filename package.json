@@ -1,0 +1,20 @@
+{
+  "name": "closure-playground",
+  "version": "1.0.0",
+  "description": "A playground for learning closure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeantimex/closure-playground.git"
+  },
+  "keywords": [],
+  "author": "jeantimex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeantimex/closure-playground/issues"
+  },
+  "homepage": "https://github.com/jeantimex/closure-playground#readme"
+}
